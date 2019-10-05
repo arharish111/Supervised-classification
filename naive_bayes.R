@@ -1,5 +1,4 @@
 #Student Name : Harish Harish
-#Student ID : 1001682418
 # Team number : 28
 # Seed value: 40
 # Sample size: 2k
